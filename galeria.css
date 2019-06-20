@@ -1,0 +1,152 @@
+* {margin: 0; padding: 0;}
+
+
+#contato{
+	font-family: 'Inconsolata', monospace;
+	font-size:12pt;
+	background-color: #48D1CC;
+	/*top:-5px;*/
+	width: 100%;
+	height:25px;
+	padding-left:3cm;
+}
+
+#menu{
+	background-color: #fff;
+	width: 100%;
+	height: 80px;
+	margin-top:2cm;
+}
+#menu ul li{
+
+	display: inline;
+	list-style: none;
+	margin:2.0em 2.0em 2.0em 2.0em;
+}
+#menu li a:link{
+	font-family: 'Inconsolata', monospace;
+	font-size:15pt;
+	color:#000;
+	text-decoration: none;
+}
+#menu li a:hover{
+	color:#48D1CC;
+	font-family: 'Inconsolata', monospace;
+	font-size:15pt;
+	text-decoration: none;
+}
+#menu li a:visited{
+	font-family: 'Inconsolata', monospace;
+	font-size:15pt;
+	color:#000;	
+	text-decoration: none;
+}
+#menu a li:active{
+	font-family: 'Inconsolata', monospace;
+	font-size:15pt;
+	color:#000;	
+	text-decoration: none;
+}
+#logo{
+	float:left;
+	padding-left: 2cm;
+}
+
+.titulo{
+font-family: 'Inconsolata', monospace;
+font-size: 20pt;
+}
+#foto{
+	float:left;
+	padding-left: 1cm;
+}
+#foto1 img{
+	padding-left: 1cm;
+}
+#foto1{
+	float: left;
+}
+#foto3 img{
+padding-left:1cm;
+}
+#foto4 img{
+	padding-left:1cm;
+}
+#foto4{
+	float:left;
+}
+#foto5 img{
+	padding-left:0.5cm;
+}
+#foto5{
+	float:left;
+}
+#foto6 img{
+	padding-left: 0.5cm;
+}
+footer{
+	clear: both;
+	background-color:#48D1CC;
+	width: 1380;
+	height: 200;
+	color:black;
+}
+#cont{
+	padding-left: 2cm;
+	padding-top: 2cm;
+	float:left;
+}
+#redes{
+	float: left;
+	padding-top:2cm;
+	padding-left: 2cm;
+}
+#praias{
+	float: left;
+	padding-top: 2cm;
+	padding-left: 2cm;
+}
+#local{
+	float:left;
+	padding-top: 0.5cm;
+	padding-left:2cm;
+}
+#imagens{
+	width:1250px;
+	height:300px;
+	background-color:#48D1CC;
+	margin-left:2cm;
+	margin-right:30cm;
+	border-radius:0.5cm;
+	padding-top: 2cm;
+}
+#imagens img{
+	padding-left: 1cm;
+}
+.titulo1{
+	font-size:25px;
+	color:black;
+	font-family: 'Inconsolata', monospace;
+	padding-left: 15cm;
+}
+.titulo2{
+	font-size:25px;
+	color:black;
+	font-family: 'Inconsolata', monospace;
+	padding-left: 10cm;
+}
+#praia{
+	background-color:#48D1CC;
+	text-align: justify;
+	font-size:18px;
+	color:black;
+	font-family: 'Inconsolata', monospace;
+	margin: 3% 4%;
+	border-radius: 0.5cm;
+}
+p{
+	padding-top:1cm;
+	padding-left: 1cm;
+	padding-right: 1cm;
+	text-align: justify;
+}
